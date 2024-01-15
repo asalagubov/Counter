@@ -82,11 +82,11 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <connections>
-                        <outlet property="isAddCount" destination="dfP-Q9-Bgs" id="0W8-jI-BAL"/>
-                        <outlet property="isDeleteCount" destination="v2v-2q-gMr" id="Zad-sI-eMT"/>
-                        <outlet property="isHistoryCount" destination="y7U-xZ-efq" id="flw-RZ-QAQ"/>
-                        <outlet property="isLableCount" destination="pyZ-bM-etV" id="5ds-lw-14L"/>
-                        <outlet property="isReset" destination="0Ak-eH-FAm" id="VfD-Fo-Acy"/>
+                        <outlet property="addCount" destination="dfP-Q9-Bgs" id="Mb0-7D-Vco"/>
+                        <outlet property="addTextField" destination="y7U-xZ-efq" id="ba4-zl-fwn"/>
+                        <outlet property="deleteCount" destination="v2v-2q-gMr" id="b58-k3-pgH"/>
+                        <outlet property="resetCount" destination="0Ak-eH-FAm" id="rSc-id-TQs"/>
+                        <outlet property="showLable" destination="pyZ-bM-etV" id="WFe-97-lsJ"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
